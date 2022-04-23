@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T07:16:57.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.3" etag="6PTiXpWo4Puc4zBoHGgO" type="github"><diagram id="4CQzTs6_wwy-gNyCrNAq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-23T08:00:21.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HZlGPSCIUYcm7_W-qUZ-" version="17.4.3" type="github">
+  <diagram id="4CQzTs6_wwy-gNyCrNAq" name="Page-1">
+    <mxGraphModel dx="617" dy="1216" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-1" target="cuncPGbJy1ciEXrPdAXo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-1" value="纤维增强型多孔人工半月板3D打印工艺研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="200" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-2" target="cuncPGbJy1ciEXrPdAXo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-2" target="cuncPGbJy1ciEXrPdAXo-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-2" target="cuncPGbJy1ciEXrPdAXo-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-2" value="人工半月板设计要求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366.25" y="270" width="187.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-4" target="cuncPGbJy1ciEXrPdAXo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-4" value="膝关节软骨接触仿真分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-7" target="cuncPGbJy1ciEXrPdAXo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-7" value="根据已有实验数据提出力学性能要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-10" target="cuncPGbJy1ciEXrPdAXo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-10" value="确定材料、形状尺寸及特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-13" target="cuncPGbJy1ciEXrPdAXo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-13" target="cuncPGbJy1ciEXrPdAXo-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-13" value="基体材料3D打印的参数优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377.49" y="455" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-16" target="cuncPGbJy1ciEXrPdAXo-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-16" value="基于打印线条质量的参数优化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-21" target="cuncPGbJy1ciEXrPdAXo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-21" value="基于零件力学性能的参数优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-23" target="cuncPGbJy1ciEXrPdAXo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-23" target="cuncPGbJy1ciEXrPdAXo-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-23" value="设计纤维填埋增强工艺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="387.49" y="640" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-24" target="cuncPGbJy1ciEXrPdAXo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-24" value="预浸渍设备搭建及浸渍参数优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="730" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-27" target="cuncPGbJy1ciEXrPdAXo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-27" value="浸渍丝填埋增强效果验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="730" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-31" target="cuncPGbJy1ciEXrPdAXo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-31" target="cuncPGbJy1ciEXrPdAXo-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-31" value="设计3D打印多孔润滑表层结构" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371.87" y="820" width="176.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-35" target="cuncPGbJy1ciEXrPdAXo-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-35" value="多孔结构的HA浸润性研究" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="910" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuncPGbJy1ciEXrPdAXo-37" target="cuncPGbJy1ciEXrPdAXo-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-37" value="多孔结构的摩擦性能研究" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="910" width="155" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cuncPGbJy1ciEXrPdAXo-39" value="人工半月板的整体成型" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387.49" y="1000" width="145" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
